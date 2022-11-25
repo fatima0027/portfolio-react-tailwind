@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-tailwind/static/css/main.53619f85.css",
+    "main.js": "/portfolio-react-tailwind/static/js/main.b1d54b2d.js",
+    "static/media/graphql.png": "/portfolio-react-tailwind/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/react.png": "/portfolio-react-tailwind/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio-react-tailwind/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/nextjs.png": "/portfolio-react-tailwind/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/portfolio-react-tailwind/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio-react-tailwind/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio-react-tailwind/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-react-tailwind/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/coding.svg": "/portfolio-react-tailwind/static/media/coding.fb2f416348e6aacc0b84f3defb175720.svg",
+    "static/media/typescript.png": "/portfolio-react-tailwind/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/javascript.png": "/portfolio-react-tailwind/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/firebase.png": "/portfolio-react-tailwind/static/media/firebase.a4156cb67d6d0676cffc.png",
+    "index.html": "/portfolio-react-tailwind/index.html",
+    "main.53619f85.css.map": "/portfolio-react-tailwind/static/css/main.53619f85.css.map",
+    "main.b1d54b2d.js.map": "/portfolio-react-tailwind/static/js/main.b1d54b2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53619f85.css",
+    "static/js/main.b1d54b2d.js"
+  ]
+}
